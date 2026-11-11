@@ -1,0 +1,15 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Publicaciones
+publish/
+
+# Logs
+*.log
+
+# NuGet
+packages/
